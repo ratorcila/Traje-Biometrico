@@ -1,0 +1,61 @@
+c:\users\saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe.config
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csprojResolveAssemblyReference.cache
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmPrincipal.resources
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.Properties.Resources.resources
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csproj.GenerateResource.Cache
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\Mono.Security.dll
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\Saul\documents\visual studio 2015\Projects\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe.config
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\Mono.Security.dll
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csprojResolveAssemblyReference.cache
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmAgregarPaciente.resources
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmPrincipal.resources
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.Properties.Resources.resources
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csproj.GenerateResource.Cache
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmBuscar.resources
+C:\Users\edgarsaul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmObtenerID.resources
+C:\Users\edgarsaul\Desktop\Servicio Social\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe.config
+C:\Users\edgarsaul\Desktop\Servicio Social\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\edgarsaul\Desktop\Servicio Social\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe.config
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\Mono.Security.dll
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmAgregarPaciente.resources
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmBuscar.resources
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmObtenerID.resources
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmPrincipal.resources
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmSelectPort.resources
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmSesion.resources
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.Properties.Resources.resources
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csproj.GenerateResource.Cache
+C:\Users\Saul\Desktop\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmNuevaConexion.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe.config
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.exe
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\TrajeBiometrico-Ver1.0.pdb
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\bin\Debug\Mono.Security.dll
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csprojResolveAssemblyReference.cache
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmAgregarPaciente.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmNuevaConexion.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmObtenerID.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmPrincipal.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmSelectPort.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmSesion.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.Properties.Resources.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico-Ver1.0.csproj.GenerateResource.Cache
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmNewDB.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmRegistroPaciente.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.CerrarSesion.resources
+C:\Users\Ventas Tepic\Desktop\Servicio\TrajeBiometrico-Ver1.0\TrajeBiometrico-Ver1.0\obj\Debug\TrajeBiometrico_Ver1._0.frmModificarPaciente.resources
